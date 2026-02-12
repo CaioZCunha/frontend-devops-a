@@ -17,3 +17,6 @@ O objetivo desse repositório é entender os fundamentos do frontend devops.
 - git checkout -b (cria uma nova branch)
 - git commit -m (salva os arquivos no repositório local)
 - git push origin (enviar os dados repositório local para o repositório remoto)
+
+
+Autor: Caio Zanfollim Cunha
